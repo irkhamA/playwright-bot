@@ -46,10 +46,3 @@ The bot uses Playwright to automate a browser and repeatedly visits your GitHub 
 
 Using automated means to artificially inflate profile view counts may violate GitHub's terms of service. Use this bot responsibly.
 
-## Contributing
-
-Feel free to open issues or create pull requests if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
