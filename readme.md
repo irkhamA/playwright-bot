@@ -11,8 +11,8 @@ This is a simple bot created using Playwright to increase the view count on your
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/irkhama/playwright-github-profile-counter-bot.git
-    cd github-profile-counter-bot
+    git clone https://github.com/irkhamA/playwright-bot.git
+    cd gplaywright-bot
     ```
 
 2. Install the dependencies:
@@ -25,11 +25,15 @@ This is a simple bot created using Playwright to increase the view count on your
 1. Edit the `config.js` file to set your GitHub profile URL:
     ```javascript
     module.exports = {
-        profileUrl: 'https://github.com/irkhama'
+        baseURL: 'https://github.com'
     };
     ```
+2. Install Requirements:
+    ```bash
+    npm insatall
+    ```
 
-2. Run the bot:
+3. Run the bot:
     ```bash
     npx playwright test
     ```
